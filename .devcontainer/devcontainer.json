@@ -46,7 +46,7 @@
 		"--privileged"
 	],
 	"docker.environment": {
-		"DOCKER_HOST": "ssh://your-remote-user@your-remote-machine-fqdn-or-ip-here"
+		"DOCKER_HOST": "ssh://ccceritth@161.97.132.183"
 	}
 	// Add the IDs of extensions you want installed when the container is created.
 	"customizations": {
